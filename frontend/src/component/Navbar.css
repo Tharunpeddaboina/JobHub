@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #ffffff; /* White background for the navbar */
+    border-bottom: 1px solid #eaeaea; /* Light border at the bottom */
+  }
+  
+  .navbar-brand {
+    font-weight: bold; /* Bold font for brand */
+    font-size: 1.5rem; /* Increased font size for brand */
+    color: #007bff; /* Brand color */
+  }
+  
+  .nav-link {
+    color: #555; /* Darker color for nav links */
+    font-size: 1rem; /* Font size for nav links */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+  }
+  
+  .nav-link:hover {
+    color: #007bff; /* Change color on hover */
+  }
+  
+  .search-container {
+    margin-right: 20px; /* Space for search container */
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075); /* Subtle shadow for depth */
+  }
+  
+  .navbar-toggler {
+    border-color: #007bff; /* Toggler border color */
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #007bff; /* Toggler icon color */
+  }
+  
+  .btn-link {
+    padding: 0; /* No padding for button link */
+    color: #555; /* Darker color for logout link */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .btn-link:hover {
+    color: #dc3545; /* Red color on hover for logout */
+  }
+  
